@@ -1,2 +1,4 @@
 # Hotstar-Clone
-A clone of Hotstar website.
+
+This is a clone of Hotstar Website.
+
